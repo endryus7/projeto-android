@@ -128,7 +128,7 @@ aside > h3 {
 
 aside > ul{
     list-style-position: inside;
-    list-style-type: '✔️';
+    list-style-type: '\2714';
     columns: 2;
 }
 
